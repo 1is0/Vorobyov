@@ -2,7 +2,7 @@
 
 namespace ConsoleApp1
 {
-    class Program
+    class ConsoleApp1
     {
 
         public static void St1(bool[] itemsAchievements)
