@@ -2,10 +2,10 @@
 using System.Text;
 using System.Globalization;
 
-namespace Lab2_1
+namespace Lab2o1
 {
     //task 1 from tasklist
-    class Lab2_1
+    class Lab2o1
     {
         static void Main(string[] args)
         {
