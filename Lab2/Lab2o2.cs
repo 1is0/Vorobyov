@@ -2,10 +2,10 @@
 using System.Text;
 using System.IO;
 
-namespace Lab2_2
+namespace Lab2o2
 {
     //task 13 from tasklist
-    class Lab2_2
+    class Lab2o2
     {
         static void Main(string[] args)
         {
