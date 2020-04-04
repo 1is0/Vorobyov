@@ -1,9 +1,9 @@
 ﻿using System;
 
-namespace Lab2_3
+namespace Lab2o3
 {
     //task 11 from tasklist
-    class Lab2_3
+    class Lab2o3
     {
         public static void Main()
         {
