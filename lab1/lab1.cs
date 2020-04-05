@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace ConsoleApp1
+namespace lab1
 {
-    class ConsoleApp1
+    class lab1
     {
 
         public static void St1(bool[] itemsAchievements)
