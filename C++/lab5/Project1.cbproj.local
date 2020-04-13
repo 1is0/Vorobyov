@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.998,=D:\Progs\vcl\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.390,D:\Progs\vcl\lab5\Project1.cbproj=D:\Progs\vcl\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.815,D:\Progs\vcl\lab5\Main.cpp=D:\Progs\vcl\lab5\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.630,D:\Progs\vcl\lab5\Project1PCH1.h=D:\Progs\vcl\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.072,=D:\Progs\vcl\lab5\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.815,D:\Progs\vcl\lab5\Main.h=D:\Progs\vcl\lab5\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.663,D:\Progs\vcl\lab5\Queue.h=D:\Progs\vcl\lab5\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.441,D:\Progs\vcl\lab5\Unit1.cpp=D:\Progs\vcl\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.815,D:\Progs\vcl\lab5\Main.dfm=D:\Progs\vcl\lab5\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.441,D:\Progs\vcl\lab5\Unit1.h=D:\Progs\vcl\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.546,D:\Progs\vcl\lab5\CustomQueue.h=D:\Progs\vcl\lab5\Unit3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.663,D:\Progs\vcl\lab5\Queue.cpp=D:\Progs\vcl\lab5\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.546,D:\Progs\vcl\lab5\CustomQueue.cpp=D:\Progs\vcl\lab5\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.441,D:\Progs\vcl\lab5\Unit1.dfm=D:\Progs\vcl\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.920,=D:\Progs\vcl\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.902,=D:\Progs\vcl\lab5\Unit2.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Project1.cpp"/>
+    <File Path="Project1PCH1.h"/>
+    <File Path="Main.cpp"/>
+    <File Path="Main.cpp"/>
+    <File Path="Main.dfm"/>
+    <File Path="Main.h"/>
+    <File Path="Queue.cpp"/>
+    <File Path="Queue.cpp"/>
+    <File Path="Queue.h"/>
+    <File Path="CustomQueue.cpp"/>
+    <File Path="CustomQueue.cpp"/>
+    <File Path="CustomQueue.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
