@@ -109,6 +109,16 @@
         <BCC_UseClassicCompiler>false</BCC_UseClassicCompiler>
     </PropertyGroup>
     <ItemGroup>
+        <CppCompile Include="form.cpp">
+            <Form>Form1</Form>
+            <FormType>dfm</FormType>
+            <DependentOn>form.h</DependentOn>
+            <BuildOrder>2</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="list.cpp">
+            <DependentOn>list.h</DependentOn>
+            <BuildOrder>3</BuildOrder>
+        </CppCompile>
         <CppCompile Include="Project1.cpp">
             <BuildOrder>0</BuildOrder>
         </CppCompile>
@@ -116,17 +126,7 @@
             <BuildOrder>1</BuildOrder>
             <PCH>true</PCH>
         </PCHCompile>
-        <CppCompile Include="Unit1.cpp">
-            <Form>Form1</Form>
-            <FormType>dfm</FormType>
-            <DependentOn>Unit1.h</DependentOn>
-            <BuildOrder>2</BuildOrder>
-        </CppCompile>
-        <CppCompile Include="Unit2.cpp">
-            <DependentOn>Unit2.h</DependentOn>
-            <BuildOrder>3</BuildOrder>
-        </CppCompile>
-        <FormResources Include="Unit1.dfm"/>
+        <FormResources Include="form.dfm"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>

@@ -110,6 +110,20 @@
         <BCC_PCHName_Clang>Project1PCH1.h</BCC_PCHName_Clang>
     </PropertyGroup>
     <ItemGroup>
+        <CppCompile Include="form.cpp">
+            <Form>Form1</Form>
+            <FormType>dfm</FormType>
+            <DependentOn>form.h</DependentOn>
+            <BuildOrder>2</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="num_stack.cpp">
+            <DependentOn>num_stack.h</DependentOn>
+            <BuildOrder>3</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="oper_stack.cpp">
+            <DependentOn>oper_stack.h</DependentOn>
+            <BuildOrder>4</BuildOrder>
+        </CppCompile>
         <CppCompile Include="Project1.cpp">
             <BuildOrder>0</BuildOrder>
         </CppCompile>
@@ -117,21 +131,7 @@
             <BuildOrder>1</BuildOrder>
             <PCH>true</PCH>
         </PCHCompile>
-        <CppCompile Include="Unit1.cpp">
-            <Form>Form1</Form>
-            <FormType>dfm</FormType>
-            <DependentOn>Unit1.h</DependentOn>
-            <BuildOrder>2</BuildOrder>
-        </CppCompile>
-        <CppCompile Include="Unit2.cpp">
-            <DependentOn>Unit2.h</DependentOn>
-            <BuildOrder>3</BuildOrder>
-        </CppCompile>
-        <CppCompile Include="Unit3.cpp">
-            <DependentOn>Unit3.h</DependentOn>
-            <BuildOrder>4</BuildOrder>
-        </CppCompile>
-        <FormResources Include="Unit1.dfm"/>
+        <FormResources Include="form.dfm"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>

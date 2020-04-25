@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.391,E:\С++\lab3\Form.dfm=E:\С++\lab3\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.281,E:\С++\lab3\Form.cpp=E:\С++\lab3\forms.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.391,E:\С++\lab3\Form.cpp=E:\С++\lab3\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.281,E:\С++\lab3\Form.dfm=E:\С++\lab3\forms.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.099,E:\С++\lab3\lists.cpp=E:\С++\lab3\list.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.968,E:\С++\lab3\List.h=E:\С++\lab3\lists.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.864,E:\С++\lab3\List.h=E:\С++\lab3\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.723,E:\С++\lab3\forms.dfm=E:\С++\lab3\form.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.968,E:\С++\lab3\List.cpp=E:\С++\lab3\lists.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.864,E:\С++\lab3\List.cpp=E:\С++\lab3\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.723,E:\С++\lab3\forms.h=E:\С++\lab3\form.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.723,E:\С++\lab3\forms.cpp=E:\С++\lab3\form.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.099,E:\С++\lab3\lists.h=E:\С++\lab3\list.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.281,E:\С++\lab3\Form.h=E:\С++\lab3\forms.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.391,E:\С++\lab3\Form.h=E:\С++\lab3\Unit1.h</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,14 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.176,D:\Progs\vcl\lab4\Unit1.dfm=D:\Progs\vcl\Unit1.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.176,D:\Progs\vcl\lab4\Unit1.h=D:\Progs\vcl\Unit1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.536,D:\Progs\vcl\lab4\Project1.cbproj=D:\Progs\vcl\Project1.cbproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.531,=D:\Progs\vcl\Project1PCH1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.741,=D:\Progs\vcl\Unit1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.600,D:\Progs\vcl\lab4\Project1PCH1.h=D:\Progs\vcl\Project1PCH1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.176,D:\Progs\vcl\lab4\Unit1.cpp=D:\Progs\vcl\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.340,E:\С++\lab4\forms.h=E:\С++\lab4\form.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.226,E:\С++\lab4\Form.h=E:\С++\lab4\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.327,E:\С++\lab4\Form.h=E:\С++\lab4\forms.h</Transaction>
     <Transaction>1899.12.30 00:00:00.000.284,=D:\Progs\vcl\lab4\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.329,E:\С++\lab4\NumStack.h=E:\С++\lab4\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.234,E:\С++\lab4\NumStack.h=E:\С++\lab4\num_stack.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.176,D:\Progs\vcl\Unit1.cpp=D:\Progs\vcl\lab4\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.340,E:\С++\lab4\forms.cpp=E:\С++\lab4\form.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.226,E:\С++\lab4\Form.cpp=E:\С++\lab4\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.327,E:\С++\lab4\Form.cpp=E:\С++\lab4\forms.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.741,=D:\Progs\vcl\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.185,E:\С++\lab4\OperStack.h=E:\С++\lab4\Unit3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.678,E:\С++\lab4\OperStack.h=E:\С++\lab4\oper_stack.h</Transaction>
     <Transaction>1899.12.30 00:00:00.000.207,=D:\Progs\vcl\lab4\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.329,E:\С++\lab4\NumStack.cpp=E:\С++\lab4\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.234,E:\С++\lab4\NumStack.cpp=E:\С++\lab4\num_stack.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.176,D:\Progs\vcl\Unit1.h=D:\Progs\vcl\lab4\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.536,D:\Progs\vcl\Project1.cbproj=D:\Progs\vcl\lab4\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.176,D:\Progs\vcl\Unit1.dfm=D:\Progs\vcl\lab4\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.340,E:\С++\lab4\forms.dfm=E:\С++\lab4\form.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.327,E:\С++\lab4\Form.dfm=E:\С++\lab4\forms.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.185,E:\С++\lab4\OperStack.cpp=E:\С++\lab4\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.678,E:\С++\lab4\OperStack.cpp=E:\С++\lab4\oper_stack.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.600,D:\Progs\vcl\Project1PCH1.h=D:\Progs\vcl\lab4\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.531,=D:\Progs\vcl\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.226,E:\С++\lab4\Form.dfm=E:\С++\lab4\Unit1.dfm</Transaction>
   </Transactions>
 </BorlandProject>
