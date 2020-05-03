@@ -142,7 +142,6 @@ bool Tree::delete_item(Data** root, int num) {
 			}
 			(*root)->name = temp->name;
 			(*root)->num = temp->num;
-			delete(temp);
 			delete_item(&temp, temp->num);
 		}
 
