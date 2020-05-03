@@ -118,20 +118,26 @@ bool Tree::delete_item(Data** root, int num) {
 		if (!(*root)->left && !(*root)->right) {
 			delete(*root);
 			*root = nullptr;
-            size--;
+			size--;
 		}
 
 		else if (!(*root)->left) {
-			**root = *((*root)->right);
-			delete(*root)->right;
-			(*root)->right = nullptr;
+			Data* temp = (*root)->right;
+			(*root)->num = temp->num;
+			(*root)->name = temp->name;
+			(*root)->left = temp->left;
+			(*root)->right = temp->right;
+			delete temp;
 			size--;
 		}
 
 		else if (!(*root)->right) {
-			**root = *((*root)->left);
-			delete(*root)->left;
-			(*root)->left = nullptr;
+			Data* temp = (*root)->left;
+			(*root)->num = temp->num;
+			(*root)->name = temp->name;
+			(*root)->left = temp->left;
+			(*root)->right = temp->right;
+            delete temp;
 			size--;
 		}
 
@@ -142,7 +148,7 @@ bool Tree::delete_item(Data** root, int num) {
 			}
 			(*root)->name = temp->name;
 			(*root)->num = temp->num;
-			delete_item(&temp, temp->num);
+			delete_item(&(*root)->right, temp->num);
 		}
 
 		return 1;
