@@ -22,8 +22,9 @@ void __fastcall TForm1::Button1Click(TObject *Sender) {
 	nums = StrToInt(Edit4->Text);
 	size = StrToInt(Edit1->Text);
 
-	//любимый билдер выдавал ошибку при попытке обработать это исключение
-    //через блок try-throw-catch, пришлось выкручиваться как смог :/
+	//lovely builder did manage to throw its own exception
+	//when i tried to handle this part with try-catch-throw
+	//that's why it's just if-else :/
 	if (nums == 0 || size == 0) {
 		MessageDlg(
 			"Wrong data (num of items or hash table size). Repeat the input!",
