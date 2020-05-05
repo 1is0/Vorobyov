@@ -76,8 +76,8 @@ void __fastcall TForm1::Edit3KeyPress(TObject *Sender, System::WideChar &Key)
 			else
 				ShowMessage("Node with such a key doesn't exist.");
             Edit3->Clear();
+        	myHash->display(Memo2);
 		}
-        myHash->display(Memo2);
 	}
 
 	catch(...){

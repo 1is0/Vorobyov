@@ -26,10 +26,6 @@ bool Hash::add(int _key){
 		return 1;
 	}
 
-	//из-за этой части кода вполне может оказаться, что количество данных, которые
-	//мы указали добавить в таблицу, меньше, чем отображается в Мемо,
-	//на самом деле, рандомайзер может давать одинаковые выходные данные,
-    //несмотря на seed по времени
 	else{
 		if(!hash_arr[index]->find(_key)){
 			hash_arr[index]->push(_key);
@@ -51,9 +47,9 @@ bool Hash::find(int _key){
 bool Hash::del(int _key){
 	int index = this->hash_func(_key);
 	if (hash_arr[index]) {
-		hash_arr[index]->pop(_key);
+		return hash_arr[index]->pop(_key);
 	}
-	return 0;
+    return 0;
 }
 
 void Hash::del_hash(){
