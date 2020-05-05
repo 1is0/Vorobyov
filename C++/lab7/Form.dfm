@@ -110,7 +110,7 @@ object Form1: TForm1
       Width = 136
       Height = 21
       Hint = 'Press ENTER to find item'
-      MaxLength = 9
+      MaxLength = 5
       NumbersOnly = True
       ParentShowHint = False
       ShowHint = True
@@ -123,7 +123,7 @@ object Form1: TForm1
       Width = 136
       Height = 21
       Hint = 'Press ENTER to delete item'
-      MaxLength = 9
+      MaxLength = 5
       NumbersOnly = True
       ParentShowHint = False
       ShowHint = True
@@ -144,7 +144,7 @@ object Form1: TForm1
       Top = 63
       Width = 136
       Height = 21
-      MaxLength = 9
+      MaxLength = 5
       NumbersOnly = True
       ParentShowHint = False
       ShowHint = False
@@ -155,7 +155,7 @@ object Form1: TForm1
       Top = 77
       Width = 89
       Height = 21
-      MaxLength = 9
+      MaxLength = 4
       NumbersOnly = True
       ParentShowHint = False
       ShowHint = True

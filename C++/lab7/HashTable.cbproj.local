@@ -1,27 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.361,D:\Progs\vcl\Node.cpp=</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.172,D:\Progs\vcl\Node.cpp=D:\Progs\vcl\Unit1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.291,D:\Progs\vcl\Form.h=D:\Progs\vcl\Unit1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.361,D:\Progs\vcl\Hash.h=D:\Progs\vcl\Unit1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.842,=D:\Progs\vcl\Unit1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.083,D:\Progs\vcl\Unit1.cpp=D:\Progs\vcl\Stack.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.136,=D:\Progs\vcl\Unit1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.864,=D:\Progs\vcl\Unit1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.735,=D:\Progs\vcl\Unit1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.590,=D:\Progs\vcl\Stack.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.172,D:\Progs\vcl\Node.h=D:\Progs\vcl\Unit1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.361,D:\Progs\vcl\Hash.cpp=D:\Progs\vcl\Unit1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.083,D:\Progs\vcl\Unit1.h=D:\Progs\vcl\Stack.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.056,D:\Progs\vcl\Project1.cbproj=D:\Progs\vcl\Project1.cbproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.291,D:\Progs\vcl\Form.cpp=D:\Progs\vcl\Unit1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.442,=D:\Progs\vcl\Stack.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.749,D:\Progs\vcl\Stack.cpp=</Transaction>
     <Transaction>1899.12.30 00:00:00.000.508,=D:\Progs\vcl\Project1PCH1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.291,D:\Progs\vcl\Form.dfm=D:\Progs\vcl\Unit1.dfm</Transaction>
-    <Transaction>2020.05.05 22:57:04.301,D:\Progs\vcl\HashTablePCH1.h=D:\Progs\vcl\Project1PCH1.h</Transaction>
-    <Transaction>2020.05.05 22:57:04.313,D:\Progs\vcl\HashTable.cbproj=D:\Progs\vcl\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.291,D:\Progs\vcl\Unit1.cpp=D:\Progs\vcl\Form.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.361,D:\Progs\vcl\Unit1.cpp=D:\Progs\vcl\Hash.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.735,=D:\Progs\vcl\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.864,=D:\Progs\vcl\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.749,D:\Progs\vcl\Stack.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.442,=D:\Progs\vcl\Stack.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.590,=D:\Progs\vcl\Stack.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.083,D:\Progs\vcl\Stack.cpp=D:\Progs\vcl\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.301,D:\Progs\vcl\Project1PCH1.h=D:\Progs\vcl\HashTablePCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.136,=D:\Progs\vcl\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.056,D:\Progs\vcl\Project1.cbproj=D:\Progs\vcl\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.361,D:\Progs\vcl\Node.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.172,D:\Progs\vcl\Unit1.h=D:\Progs\vcl\Node.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.361,D:\Progs\vcl\Unit1.h=D:\Progs\vcl\Hash.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.291,D:\Progs\vcl\Unit1.h=D:\Progs\vcl\Form.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.842,=D:\Progs\vcl\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.172,D:\Progs\vcl\Unit1.cpp=D:\Progs\vcl\Node.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.291,D:\Progs\vcl\Unit1.dfm=D:\Progs\vcl\Form.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.083,D:\Progs\vcl\Stack.h=D:\Progs\vcl\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.313,D:\Progs\vcl\Project1.cbproj=D:\Progs\vcl\HashTable.cbproj</Transaction>
   </Transactions>
 	<ProjectSortOrder AutoSort="0" SortType="0">
     <File Path="Stack.cpp"/>
