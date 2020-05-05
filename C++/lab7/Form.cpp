@@ -40,7 +40,9 @@ void __fastcall TForm1::Button1Click(TObject *Sender) {
 
 	myHash = new Hash(size);
 	for (int i = 0; i < nums; i++) {
-		myHash->add(rand());
+		if(!myHash->add(rand())){
+            		i--;
+		}
 	}
 	myHash->display(Memo2);
 }
